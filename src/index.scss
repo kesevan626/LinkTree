@@ -99,6 +99,9 @@ a{
                     font-size: 18px;
                     line-height: 28px;
                     cursor: pointer;
+                    &:hover{
+                        background: #d3d5d9;
+                    }
                 }
             }
         }

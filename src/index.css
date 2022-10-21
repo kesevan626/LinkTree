@@ -107,6 +107,9 @@ a {
   line-height: 28px;
   cursor: pointer;
 }
+.container .content .link-section a .btn:hover {
+  background: #d3d5d9;
+}
 .container .footer {
   display: flex;
   flex-direction: column;
